@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>Recipe1 | Pocket Kitchen</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- iOS App Meta Tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Recipe1">
+</head>
+<body>
+    <header>
+        <h1>Dinner Tonight</h1>
+        <div id="item-count" style="font-size: 14px; color: var(--text-light);">50 Recipes</div>
+    </header>
+
+    <div class="filter-bar" id="filter-bar">
+        <div class="chip active" onclick="filterCuisine('All')">All</div>
+        <div class="chip" onclick="filterCuisine('Italian')">Italian</div>
+        <div class="chip" onclick="filterCuisine('Mexican')">Mexican</div>
+        <div class="chip" onclick="filterCuisine('Asian')">Asian</div>
+        <div class="chip" onclick="filterCuisine('American')">American</div>
+        <div class="chip" onclick="filterCuisine('Healthy')">Healthy</div>
+        <div class="chip" onclick="filterCuisine('Southern')">Southern</div>
+    </div>
+
+    <main class="container">
+        <div id="recipe-grid" class="recipe-grid">
+            <!-- Recipes will be injected here -->
+        </div>
+    </main>
+
+    <!-- Detailed View Modal -->
+    <div id="recipe-modal" class="modal">
+        <div class="modal-header">
+            <button class="btn-close" onclick="closeModal()">✕</button>
+            <span style="font-weight: 600;">Recipe Details</span>
+            <div style="width: 32px;"></div>
+        </div>
+        <div class="modal-content" id="modal-content">
+            <!-- Full recipe details here -->
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
