@@ -1,0 +1,1152 @@
+[
+  {
+    "id": 1,
+    "name": "Fried Chicken 1",
+    "cuisine": "Southern",
+    "protein": "Chicken",
+    "cook_time": 55,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Chicken breast",
+      "Salt",
+      "Fresh herbs",
+      "Butter",
+      "Garlic"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chicken breast,Salt,Fresh herbs,Butter,Garlic",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%201%0A%0A-%20Chicken%20breast%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Garlic"
+  },
+  {
+    "id": 2,
+    "name": "Grain Bowl 2",
+    "cuisine": "Healthy",
+    "protein": "Beef",
+    "cook_time": 87,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Beef chuck roast",
+      "Lemon",
+      "Salt",
+      "Garlic",
+      "Fresh herbs"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Beef chuck roast,Lemon,Salt,Garlic,Fresh herbs",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%202%0A%0A-%20Beef%20chuck%20roast%0A-%20Lemon%0A-%20Salt%0A-%20Garlic%0A-%20Fresh%20herbs"
+  },
+  {
+    "id": 3,
+    "name": "Hummus Bowl 3",
+    "cuisine": "Mediterranean",
+    "protein": "Beef",
+    "cook_time": 44,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Sirloin strips",
+      "Fresh herbs",
+      "Black pepper",
+      "Butter",
+      "Lemon"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Sirloin strips,Fresh herbs,Black pepper,Butter,Lemon",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Hummus%20Bowl%203%0A%0A-%20Sirloin%20strips%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Lemon"
+  },
+  {
+    "id": 4,
+    "name": "Greek Salad 4",
+    "cuisine": "Mediterranean",
+    "protein": "Vegetarian",
+    "cook_time": 90,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Tofu",
+      "Fresh herbs",
+      "Butter",
+      "Lemon",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Tofu,Fresh herbs,Butter,Lemon,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Greek%20Salad%204%0A%0A-%20Tofu%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Lemon%0A-%20Onion"
+  },
+  {
+    "id": 5,
+    "name": "Zoodle Pasta 5",
+    "cuisine": "Healthy",
+    "protein": "Vegetarian",
+    "cook_time": 50,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Tofu",
+      "Butter",
+      "Lemon",
+      "Garlic",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Tofu,Butter,Lemon,Garlic,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%205%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion"
+  },
+  {
+    "id": 6,
+    "name": "Pot Roast 6",
+    "cuisine": "American",
+    "protein": "Vegetarian",
+    "cook_time": 28,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Lentils",
+      "Garlic",
+      "Fresh herbs",
+      "Black pepper",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Lentils,Garlic,Fresh herbs,Black pepper,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pot%20Roast%206%0A%0A-%20Lentils%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter"
+  },
+  {
+    "id": 7,
+    "name": "Pad Thai 7",
+    "cuisine": "Asian",
+    "protein": "Beef",
+    "cook_time": 84,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Beef chuck roast",
+      "Lemon",
+      "Olive oil",
+      "Fresh herbs",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Beef chuck roast,Lemon,Olive oil,Fresh herbs,Black pepper",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%207%0A%0A-%20Beef%20chuck%20roast%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper"
+  },
+  {
+    "id": 8,
+    "name": "Enchiladas 8",
+    "cuisine": "Mexican",
+    "protein": "Pork",
+    "cook_time": 89,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Bacon",
+      "Olive oil",
+      "Onion",
+      "Butter",
+      "Fresh herbs"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Bacon,Olive oil,Onion,Butter,Fresh herbs",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Enchiladas%208%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Onion%0A-%20Butter%0A-%20Fresh%20herbs"
+  },
+  {
+    "id": 9,
+    "name": "Pad Thai 9",
+    "cuisine": "Asian",
+    "protein": "Pork",
+    "cook_time": 31,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Pork belly",
+      "Olive oil",
+      "Lemon",
+      "Black pepper",
+      "Garlic"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork belly,Olive oil,Lemon,Black pepper,Garlic",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%209%0A%0A-%20Pork%20belly%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Garlic"
+  },
+  {
+    "id": 10,
+    "name": "Quesadillas 10",
+    "cuisine": "Mexican",
+    "protein": "Vegetarian",
+    "cook_time": 31,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Black beans",
+      "Butter",
+      "Olive oil",
+      "Lemon",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Black beans,Butter,Olive oil,Lemon,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Quesadillas%2010%0A%0A-%20Black%20beans%0A-%20Butter%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt"
+  },
+  {
+    "id": 11,
+    "name": "Grits 11",
+    "cuisine": "Southern",
+    "protein": "Seafood",
+    "cook_time": 58,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Cod fillets",
+      "Butter",
+      "Fresh herbs",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Cod fillets,Butter,Fresh herbs,Olive oil,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grits%2011%0A%0A-%20Cod%20fillets%0A-%20Butter%0A-%20Fresh%20herbs%0A-%20Olive%20oil%0A-%20Salt"
+  },
+  {
+    "id": 12,
+    "name": "Grain Bowl 12",
+    "cuisine": "Healthy",
+    "protein": "Pork",
+    "cook_time": 79,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Bacon",
+      "Lemon",
+      "Butter",
+      "Olive oil",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Bacon,Lemon,Butter,Olive oil,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2012%0A%0A-%20Bacon%0A-%20Lemon%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion"
+  },
+  {
+    "id": 13,
+    "name": "Fajitas 13",
+    "cuisine": "Mexican",
+    "protein": "Beef",
+    "cook_time": 37,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Sirloin strips",
+      "Garlic",
+      "Fresh herbs",
+      "Butter",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Sirloin strips,Garlic,Fresh herbs,Butter,Olive oil",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fajitas%2013%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Olive%20oil"
+  },
+  {
+    "id": 14,
+    "name": "BBQ Ribs 14",
+    "cuisine": "American",
+    "protein": "Pork",
+    "cook_time": 78,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Pork shoulder",
+      "Lemon",
+      "Butter",
+      "Onion",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork shoulder,Lemon,Butter,Onion,Black pepper",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20BBQ%20Ribs%2014%0A%0A-%20Pork%20shoulder%0A-%20Lemon%0A-%20Butter%0A-%20Onion%0A-%20Black%20pepper"
+  },
+  {
+    "id": 15,
+    "name": "Ramen 15",
+    "cuisine": "Asian",
+    "protein": "Chicken",
+    "cook_time": 55,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Chicken thighs",
+      "Garlic",
+      "Salt",
+      "Butter",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chicken thighs,Garlic,Salt,Butter,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2015%0A%0A-%20Chicken%20thighs%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion"
+  },
+  {
+    "id": 16,
+    "name": "Chicken Parm 16",
+    "cuisine": "Italian",
+    "protein": "Beef",
+    "cook_time": 84,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Sirloin strips",
+      "Garlic",
+      "Salt",
+      "Onion",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Sirloin strips,Garlic,Salt,Onion,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2016%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Salt%0A-%20Onion%0A-%20Butter"
+  },
+  {
+    "id": 17,
+    "name": "Risotto 17",
+    "cuisine": "Italian",
+    "protein": "Vegetarian",
+    "cook_time": 57,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Tofu",
+      "Garlic",
+      "Onion",
+      "Fresh herbs",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Tofu,Garlic,Onion,Fresh herbs,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Risotto%2017%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Butter"
+  },
+  {
+    "id": 18,
+    "name": "Chicken Parm 18",
+    "cuisine": "Italian",
+    "protein": "Seafood",
+    "cook_time": 77,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Salmon fillets",
+      "Onion",
+      "Olive oil",
+      "Salt",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Salmon fillets,Onion,Olive oil,Salt,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2018%0A%0A-%20Salmon%20fillets%0A-%20Onion%0A-%20Olive%20oil%0A-%20Salt%0A-%20Butter"
+  },
+  {
+    "id": 19,
+    "name": "Falafel 19",
+    "cuisine": "Mediterranean",
+    "protein": "Pork",
+    "cook_time": 35,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Pork belly",
+      "Fresh herbs",
+      "Black pepper",
+      "Onion",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork belly,Fresh herbs,Black pepper,Onion,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2019%0A%0A-%20Pork%20belly%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt"
+  },
+  {
+    "id": 20,
+    "name": "Fried Chicken 20",
+    "cuisine": "Southern",
+    "protein": "Vegetarian",
+    "cook_time": 59,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Lentils",
+      "Butter",
+      "Garlic",
+      "Lemon",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Lentils,Butter,Garlic,Lemon,Black pepper",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2020%0A%0A-%20Lentils%0A-%20Butter%0A-%20Garlic%0A-%20Lemon%0A-%20Black%20pepper"
+  },
+  {
+    "id": 21,
+    "name": "Fried Chicken 21",
+    "cuisine": "Southern",
+    "protein": "Pork",
+    "cook_time": 54,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Bacon",
+      "Olive oil",
+      "Black pepper",
+      "Lemon",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Bacon,Olive oil,Black pepper,Lemon,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2021%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Lemon%0A-%20Salt"
+  },
+  {
+    "id": 22,
+    "name": "Scallops 22",
+    "cuisine": "Seafood",
+    "protein": "Pork",
+    "cook_time": 30,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Pork shoulder",
+      "Fresh herbs",
+      "Black pepper",
+      "Butter",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork shoulder,Fresh herbs,Black pepper,Butter,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2022%0A%0A-%20Pork%20shoulder%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion"
+  },
+  {
+    "id": 23,
+    "name": "Ramen 23",
+    "cuisine": "Asian",
+    "protein": "Seafood",
+    "cook_time": 80,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Sea bass",
+      "Lemon",
+      "Olive oil",
+      "Black pepper",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Sea bass,Lemon,Olive oil,Black pepper,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2023%0A%0A-%20Sea%20bass%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Onion"
+  },
+  {
+    "id": 24,
+    "name": "Pad Thai 24",
+    "cuisine": "Asian",
+    "protein": "Vegetarian",
+    "cook_time": 69,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Tofu",
+      "Garlic",
+      "Fresh herbs",
+      "Onion",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Tofu,Garlic,Fresh herbs,Onion,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%2024%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter"
+  },
+  {
+    "id": 25,
+    "name": "Grain Bowl 25",
+    "cuisine": "Healthy",
+    "protein": "Seafood",
+    "cook_time": 49,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Sea bass",
+      "Garlic",
+      "Olive oil",
+      "Fresh herbs",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Sea bass,Garlic,Olive oil,Fresh herbs,Black pepper",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2025%0A%0A-%20Sea%20bass%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper"
+  },
+  {
+    "id": 26,
+    "name": "Steak 26",
+    "cuisine": "American",
+    "protein": "Seafood",
+    "cook_time": 64,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Shrimp",
+      "Butter",
+      "Salt",
+      "Fresh herbs",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Shrimp,Butter,Salt,Fresh herbs,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Steak%2026%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Onion"
+  },
+  {
+    "id": 27,
+    "name": "Burritos 27",
+    "cuisine": "Mexican",
+    "protein": "Seafood",
+    "cook_time": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Salt",
+      "Butter",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Shrimp,Garlic,Salt,Butter,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2027%0A%0A-%20Shrimp%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion"
+  },
+  {
+    "id": 28,
+    "name": "Lobster Roll 28",
+    "cuisine": "Seafood",
+    "protein": "Seafood",
+    "cook_time": 17,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Shrimp",
+      "Butter",
+      "Onion",
+      "Salt",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Shrimp,Butter,Onion,Salt,Olive oil",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lobster%20Roll%2028%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Onion%0A-%20Salt%0A-%20Olive%20oil"
+  },
+  {
+    "id": 29,
+    "name": "Pasta 29",
+    "cuisine": "Italian",
+    "protein": "Pork",
+    "cook_time": 89,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Pork chops",
+      "Black pepper",
+      "Onion",
+      "Salt",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork chops,Black pepper,Onion,Salt,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pasta%2029%0A%0A-%20Pork%20chops%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt%0A-%20Butter"
+  },
+  {
+    "id": 30,
+    "name": "Meatloaf 30",
+    "cuisine": "American",
+    "protein": "Beef",
+    "cook_time": 42,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Ground beef",
+      "Black pepper",
+      "Butter",
+      "Salt",
+      "Lemon"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Ground beef,Black pepper,Butter,Salt,Lemon",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2030%0A%0A-%20Ground%20beef%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Lemon"
+  },
+  {
+    "id": 31,
+    "name": "Zoodle Pasta 31",
+    "cuisine": "Healthy",
+    "protein": "Chicken",
+    "cook_time": 47,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Chicken thighs",
+      "Lemon",
+      "Garlic",
+      "Onion",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chicken thighs,Lemon,Garlic,Onion,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2031%0A%0A-%20Chicken%20thighs%0A-%20Lemon%0A-%20Garlic%0A-%20Onion%0A-%20Salt"
+  },
+  {
+    "id": 32,
+    "name": "Scallops 32",
+    "cuisine": "Seafood",
+    "protein": "Chicken",
+    "cook_time": 53,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Chicken thighs",
+      "Black pepper",
+      "Butter",
+      "Salt",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chicken thighs,Black pepper,Butter,Salt,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2032%0A%0A-%20Chicken%20thighs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Onion"
+  },
+  {
+    "id": 33,
+    "name": "Fried Chicken 33",
+    "cuisine": "Southern",
+    "protein": "Beef",
+    "cook_time": 50,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Ground beef",
+      "Butter",
+      "Lemon",
+      "Garlic",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Ground beef,Butter,Lemon,Garlic,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2033%0A%0A-%20Ground%20beef%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion"
+  },
+  {
+    "id": 34,
+    "name": "Chicken Parm 34",
+    "cuisine": "Italian",
+    "protein": "Chicken",
+    "cook_time": 17,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Whole chicken",
+      "Onion",
+      "Fresh herbs",
+      "Garlic",
+      "Lemon"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Whole chicken,Onion,Fresh herbs,Garlic,Lemon",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2034%0A%0A-%20Whole%20chicken%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Garlic%0A-%20Lemon"
+  },
+  {
+    "id": 35,
+    "name": "Paella 35",
+    "cuisine": "Seafood",
+    "protein": "Vegetarian",
+    "cook_time": 78,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Mushrooms",
+      "Black pepper",
+      "Garlic",
+      "Lemon",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Mushrooms,Black pepper,Garlic,Lemon,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Paella%2035%0A%0A-%20Mushrooms%0A-%20Black%20pepper%0A-%20Garlic%0A-%20Lemon%0A-%20Butter"
+  },
+  {
+    "id": 36,
+    "name": "Meatloaf 36",
+    "cuisine": "American",
+    "protein": "Chicken",
+    "cook_time": 67,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Chicken breast",
+      "Olive oil",
+      "Black pepper",
+      "Fresh herbs",
+      "Garlic"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chicken breast,Olive oil,Black pepper,Fresh herbs,Garlic",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2036%0A%0A-%20Chicken%20breast%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Garlic"
+  },
+  {
+    "id": 37,
+    "name": "Gyro 37",
+    "cuisine": "Mediterranean",
+    "protein": "Seafood",
+    "cook_time": 88,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Shrimp",
+      "Olive oil",
+      "Lemon",
+      "Black pepper",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Shrimp,Olive oil,Lemon,Black pepper,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2037%0A%0A-%20Shrimp%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Butter"
+  },
+  {
+    "id": 38,
+    "name": "Scallops 38",
+    "cuisine": "Seafood",
+    "protein": "Beef",
+    "cook_time": 35,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Beef chuck roast",
+      "Butter",
+      "Olive oil",
+      "Onion",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Beef chuck roast,Butter,Olive oil,Onion,Black pepper",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2038%0A%0A-%20Beef%20chuck%20roast%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion%0A-%20Black%20pepper"
+  },
+  {
+    "id": 39,
+    "name": "Tacos 39",
+    "cuisine": "Mexican",
+    "protein": "Chicken",
+    "cook_time": 32,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Whole chicken",
+      "Black pepper",
+      "Onion",
+      "Butter",
+      "Garlic"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Whole chicken,Black pepper,Onion,Butter,Garlic",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2039%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Onion%0A-%20Butter%0A-%20Garlic"
+  },
+  {
+    "id": 40,
+    "name": "Falafel 40",
+    "cuisine": "Mediterranean",
+    "protein": "Chicken",
+    "cook_time": 17,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Whole chicken",
+      "Black pepper",
+      "Butter",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Whole chicken,Black pepper,Butter,Olive oil,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2040%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Butter%0A-%20Olive%20oil%0A-%20Salt"
+  },
+  {
+    "id": 41,
+    "name": "Biscuits & Gravy 41",
+    "cuisine": "Southern",
+    "protein": "Chicken",
+    "cook_time": 39,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Chicken breast",
+      "Lemon",
+      "Garlic",
+      "Olive oil",
+      "Fresh herbs"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chicken breast,Lemon,Garlic,Olive oil,Fresh herbs",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Biscuits%20%26%20Gravy%2041%0A%0A-%20Chicken%20breast%0A-%20Lemon%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs"
+  },
+  {
+    "id": 42,
+    "name": "Zoodle Pasta 42",
+    "cuisine": "Healthy",
+    "protein": "Beef",
+    "cook_time": 72,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Ribeye steak",
+      "Butter",
+      "Onion",
+      "Garlic",
+      "Lemon"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Ribeye steak,Butter,Onion,Garlic,Lemon",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2042%0A%0A-%20Ribeye%20steak%0A-%20Butter%0A-%20Onion%0A-%20Garlic%0A-%20Lemon"
+  },
+  {
+    "id": 43,
+    "name": "Falafel 43",
+    "cuisine": "Mediterranean",
+    "protein": "Beef",
+    "cook_time": 15,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Ribeye steak",
+      "Lemon",
+      "Fresh herbs",
+      "Onion",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Ribeye steak,Lemon,Fresh herbs,Onion,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2043%0A%0A-%20Ribeye%20steak%0A-%20Lemon%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter"
+  },
+  {
+    "id": 44,
+    "name": "Gyro 44",
+    "cuisine": "Mediterranean",
+    "protein": "Vegetarian",
+    "cook_time": 71,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Tofu",
+      "Onion",
+      "Garlic",
+      "Black pepper",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Tofu,Onion,Garlic,Black pepper,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2044%0A%0A-%20Tofu%0A-%20Onion%0A-%20Garlic%0A-%20Black%20pepper%0A-%20Butter"
+  },
+  {
+    "id": 45,
+    "name": "Roasted Veggies 45",
+    "cuisine": "Healthy",
+    "protein": "Vegetarian",
+    "cook_time": 51,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Lentils",
+      "Black pepper",
+      "Fresh herbs",
+      "Salt",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Lentils,Black pepper,Fresh herbs,Salt,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Roasted%20Veggies%2045%0A%0A-%20Lentils%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Salt%0A-%20Onion"
+  },
+  {
+    "id": 46,
+    "name": "Burger 46",
+    "cuisine": "American",
+    "protein": "Vegetarian",
+    "cook_time": 68,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Tofu",
+      "Butter",
+      "Lemon",
+      "Salt",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Tofu,Butter,Lemon,Salt,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burger%2046%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Salt%0A-%20Onion"
+  },
+  {
+    "id": 47,
+    "name": "Teriyaki 47",
+    "cuisine": "Asian",
+    "protein": "Beef",
+    "cook_time": 27,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Sirloin strips",
+      "Olive oil",
+      "Black pepper",
+      "Butter",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Sirloin strips,Olive oil,Black pepper,Butter,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Teriyaki%2047%0A%0A-%20Sirloin%20strips%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion"
+  },
+  {
+    "id": 48,
+    "name": "Tacos 48",
+    "cuisine": "Mexican",
+    "protein": "Pork",
+    "cook_time": 68,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Pork chops",
+      "Lemon",
+      "Garlic",
+      "Butter",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork chops,Lemon,Garlic,Butter,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2048%0A%0A-%20Pork%20chops%0A-%20Lemon%0A-%20Garlic%0A-%20Butter%0A-%20Salt"
+  },
+  {
+    "id": 49,
+    "name": "Stir-Fry 49",
+    "cuisine": "Asian",
+    "protein": "Pork",
+    "cook_time": 53,
+    "difficulty": "Special Occasion",
+    "ingredients": [
+      "Pork belly",
+      "Lemon",
+      "Onion",
+      "Black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Pork belly,Lemon,Onion,Black pepper,Salt",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Stir-Fry%2049%0A%0A-%20Pork%20belly%0A-%20Lemon%0A-%20Onion%0A-%20Black%20pepper%0A-%20Salt"
+  },
+  {
+    "id": 50,
+    "name": "Burritos 50",
+    "cuisine": "Mexican",
+    "protein": "Vegetarian",
+    "cook_time": 39,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Chickpeas",
+      "Olive oil",
+      "Lemon",
+      "Salt",
+      "Onion"
+    ],
+    "instructions": [
+      "Prepare ingredients.",
+      "Cook thoroughly.",
+      "Serve and enjoy!"
+    ],
+    "image_url": "https://via.placeholder.com/300",
+    "grocery_list": "Chickpeas,Olive oil,Lemon,Salt,Onion",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2050%0A%0A-%20Chickpeas%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt%0A-%20Onion"
+  }
+]
