@@ -3,7 +3,7 @@ let filteredRecipes = [];
 
 async function loadRecipes() {
     try {
-        const response = await fetch('../recipes.json');
+        const response = await fetch('./recipes.json');
         recipes = await response.json();
         filteredRecipes = [...recipes];
         renderRecipes();
@@ -34,7 +34,7 @@ function renderRecipes() {
             </div>
         </div>
     `).join('');
-    
+
     document.getElementById('item-count').innerText = `${filteredRecipes.length} Recipes`;
 }
 
