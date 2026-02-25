@@ -264,14 +264,15 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Cook grits according to package instructions with extra butter and cheese.",
+      "Saut\u00e9 shrimp with garlic, green onions, and a dash of hot sauce.",
+      "Serve the spicy shrimp over the hot, creamy cheesy grits.",
+      "Garnish with fresh parsley and extra black pepper."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1505253304499-671c5ecfb3ae?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Cod fillets,Butter,Fresh herbs,Olive oil,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grits%2011%0A%0A-%20Cod%20fillets%0A-%20Butter%0A-%20Fresh%20herbs%0A-%20Olive%20oil%0A-%20Salt",
-    "icon": "\ud83c\udf57"
+    "icon": "\ud83e\udd63"
   },
   {
     "id": 12,
@@ -288,11 +289,12 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Roast pork loin with garlic and herbs until the center is juicy.",
+      "Prepare a base of warm quinoa or brown rice.",
+      "Thinly slice the pork and arrange over the grains with fresh veggies.",
+      "Drizzle with a light balsamic glaze or lemon-tahini dressing."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Bacon,Lemon,Butter,Olive oil,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2012%0A%0A-%20Bacon%0A-%20Lemon%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion",
     "icon": "\ud83e\udd57"
@@ -312,11 +314,12 @@
       "Olive oil"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Batch-cook bell pepper and onion strips in a very hot skillet.",
+      "Sear thinly sliced beef strips with cumin and chili powder.",
+      "Combine meat and veggies in the skillet for a final sizzle.",
+      "Serve with warm flour tortillas, lime, and fresh salsa."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1534352956274-4390974ed281?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Sirloin strips,Garlic,Fresh herbs,Butter,Olive oil",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fajitas%2013%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Olive%20oil",
     "icon": "\ud83c\udf2e"
@@ -336,14 +339,15 @@
       "Black pepper"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Apply a dry rub of brown sugar and spices to the pork ribs.",
+      "Slow-bake in the oven at 275F for 3 hours until tender.",
+      "Brush with your favorite BBQ sauce and broil for 3-5 mins.",
+      "Let the ribs rest before slicing for that classic fall-off-the-bone finish."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Pork shoulder,Lemon,Butter,Onion,Black pepper",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20BBQ%20Ribs%2014%0A%0A-%20Pork%20shoulder%0A-%20Lemon%0A-%20Butter%0A-%20Onion%0A-%20Black%20pepper",
-    "icon": "\ud83e\udd69"
+    "icon": "\ud83c\udf56"
   },
   {
     "id": 15,
@@ -360,11 +364,12 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Simmer chicken in a rich ginger and garlic flavored broth.",
+      "Cook ramen noodles until just tender (al dente).",
+      "Assemble the bowl with noodles, broth, and sliced chicken.",
+      "Add a soft-boiled egg, green onions, and a sheet of nori."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Chicken thighs,Garlic,Salt,Butter,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2015%0A%0A-%20Chicken%20thighs%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion",
     "icon": "\ud83c\udf5c"

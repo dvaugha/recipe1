@@ -16,7 +16,7 @@ function renderRecipes() {
     const grid = document.getElementById('recipe-grid');
     grid.innerHTML = filteredRecipes.map(recipe => `
         <div class="recipe-card" onclick="openDetails(${recipe.id})">
-            <button class="btn-delete" onclick="event.stopPropagation(); deleteRecipe(${recipe.id})">✕</button>
+            <button class="btn-card-delete" onclick="event.stopPropagation(); deleteRecipe(${recipe.id})">DELETE</button>
             <img src="${recipe.image_url || 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=500&q=80'}" alt="${recipe.name}" class="recipe-image">
             <div class="recipe-info">
                 <div class="recipe-tag-row">
@@ -40,10 +40,12 @@ function renderRecipes() {
 }
 
 function deleteRecipe(id) {
-    if (confirm('Delete this recipe?')) {
+    const recipe = recipes.find(r => r.id === id);
+    if (confirm(`Are you sure you want to permanently delete "${recipe.name}"?`)) {
         recipes = recipes.filter(r => r.id !== id);
         filteredRecipes = filteredRecipes.filter(r => r.id !== id);
         renderRecipes();
+        closeModal();
     }
 }
 
@@ -91,6 +93,10 @@ function openDetails(id) {
         <a href="${recipe.grocery_notes_url}" class="btn-grocery">
             📝 Create Grocery List in Notes
         </a>
+
+        <button class="btn-delete" style="margin-top: 32px; background: transparent; color: #ff3b30; border: 1px solid #ff3b30;" onclick="deleteRecipe(${recipe.id})">
+            🗑 Delete Recipe
+        </button>
     `;
 
     modal.classList.add('active');
