@@ -19,7 +19,7 @@
       "Add garlic and sear chicken until internal temp reaches 165F.",
       "Rest for 5 minutes before serving with a drizzle of pan juices."
     ],
-    "image_url": "https://images.unsplash.com/photo-1569058242253-92a9c71f9867?auto=format&fit=crop&w=500&q=80",
+    "image_url": "https://images.unsplash.com/photo-1626645738196-c2a7c8d38f58?auto=format&fit=crop&w=1000&q=80",
     "grocery_list": "Chicken breast,Salt,Fresh herbs,Butter,Garlic",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%201%0A%0A-%20Chicken%20breast%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Garlic",
     "icon": "\ud83c\udf57"
@@ -501,7 +501,7 @@
   },
   {
     "id": 21,
-    "name": "Fried Chicken 21",
+    "name": "Crispy Pork Belly",
     "cuisine": "Southern",
     "protein": "Pork",
     "cook_time": 54,
@@ -514,18 +514,19 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Score the pork belly skin in a diamond pattern.",
+      "Rub with plenty of salt and five-spice powder.",
+      "Roast at a low temperature until tender, then blast with high heat to crisp the skin.",
+      "Slice into thick pieces and serve with a hot mustard dip."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1593001874117-c99c800e3eb7?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Bacon,Olive oil,Black pepper,Lemon,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2021%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Lemon%0A-%20Salt",
-    "icon": "\ud83c\udf57"
+    "icon": "\ud83e\udd53"
   },
   {
     "id": 22,
-    "name": "Scallops 22",
+    "name": "Pan-Seared Scallops",
     "cuisine": "Seafood",
     "protein": "Pork",
     "cook_time": 30,
@@ -538,18 +539,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Pat scallops dry with a paper towel; this is the key to a good sear.",
+      "Sear in a smoking hot pan with oil for 90 seconds per side until golden.",
+      "Add butter and lemon to the pan to baste for the final 30 seconds.",
+      "Serve immediately on a bed of pea pur\u00e9e or with crusty bread."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Pork shoulder,Fresh herbs,Black pepper,Butter,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2022%0A%0A-%20Pork%20shoulder%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion",
-    "icon": "\ud83d\udc1f"
+    "icon": "\ud83d\udc1a"
   },
   {
     "id": 23,
-    "name": "Ramen 23",
+    "name": "Spicy Seafood Ramen",
     "cuisine": "Asian",
     "protein": "Seafood",
     "cook_time": 80,
@@ -562,18 +564,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Simmer a seafood broth with ginger, garlic, and chili paste.",
+      "Add shrimp, squid, and mussels until they just open.",
+      "Pour the hot broth over fresh ramen noodles.",
+      "Top with a soft egg, scallions, and a drizzle of sesame oil."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1547928576-a4a33237bec3?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Sea bass,Lemon,Olive oil,Black pepper,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2023%0A%0A-%20Sea%20bass%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Onion",
     "icon": "\ud83c\udf5c"
   },
   {
     "id": 24,
-    "name": "Pad Thai 24",
+    "name": "Vegetarian Pad Thai",
     "cuisine": "Asian",
     "protein": "Vegetarian",
     "cook_time": 69,
@@ -586,18 +589,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Stir-fry tofu cubes with garlic and bok choy.",
+      "Add soaked rice noodles and a tangy sweet-sour tamarind sauce.",
+      "Toss in bean sprouts, cilantro, and green onions.",
+      "Finish with a squeeze of lime and a handful of crushed peanuts."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Tofu,Garlic,Fresh herbs,Onion,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%2024%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter",
     "icon": "\ud83c\udf5c"
   },
   {
     "id": 25,
-    "name": "Grain Bowl 25",
+    "name": "Seafood Grain Bowl",
     "cuisine": "Healthy",
     "protein": "Seafood",
     "cook_time": 49,
@@ -610,18 +614,19 @@
       "Black pepper"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Cook farro or quinoa in salted water until tender.",
+      "Top with chilled shrimp, avocado slices, and cucumber.",
+      "Add a scoop of seaweed salad and some pickled ginger.",
+      "Drizzle with a light soy-sesame dressing before serving."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Sea bass,Garlic,Olive oil,Fresh herbs,Black pepper",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2025%0A%0A-%20Sea%20bass%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper",
     "icon": "\ud83e\udd57"
   },
   {
     "id": 26,
-    "name": "Steak 26",
+    "name": "Grilled Tuna Steak",
     "cuisine": "American",
     "protein": "Seafood",
     "cook_time": 64,
@@ -634,18 +639,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Brush tuna steaks with olive oil and season with lemon pepper.",
+      "Grill over high heat for only 1-2 minutes per side to keep central rare.",
+      "Serve with a side of grilled asparagus and a lemon wedge.",
+      "Garnish with fresh parsley or cilantro."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1514326640560-7d06307a0db4?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Shrimp,Butter,Salt,Fresh herbs,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Steak%2026%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Onion",
-    "icon": "\ud83e\udd69"
+    "icon": "\ud83d\udc1f"
   },
   {
     "id": 27,
-    "name": "Burritos 27",
+    "name": "Shrimp Burritos",
     "cuisine": "Mexican",
     "protein": "Seafood",
     "cook_time": 25,
@@ -658,18 +664,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Saut\u00e9 shrimp with taco seasoning and lime juice.",
+      "Fill large tortillas with rice, beans, shrimp, and cheese.",
+      "Roll tightly and toast on a dry pan until the exterior is golden.",
+      "Serve with a side of guacamole and cool sour cream."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Shrimp,Garlic,Salt,Butter,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2027%0A%0A-%20Shrimp%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion",
-    "icon": "\ud83c\udf2e"
+    "icon": "\ud83c\udf2f"
   },
   {
     "id": 28,
-    "name": "Lobster Roll 28",
+    "name": "Classic Lobster Roll",
     "cuisine": "Seafood",
     "protein": "Seafood",
     "cook_time": 17,
@@ -682,18 +689,19 @@
       "Olive oil"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Chop cooked lobster meat into large, bite-sized chunks.",
+      "Lightly toss with a small amount of mayo, celery, and lemon juice.",
+      "Toast a split-top bun in plenty of butter.",
+      "Stuff the warm bun with the chilled lobster and sprinkle with chives."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1599487488170-a309e46a784d?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Shrimp,Butter,Onion,Salt,Olive oil",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lobster%20Roll%2028%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Onion%0A-%20Salt%0A-%20Olive%20oil",
-    "icon": "\ud83d\udc1f"
+    "icon": "\ud83e\udd9e"
   },
   {
     "id": 29,
-    "name": "Pasta 29",
+    "name": "Pork Ragu Pasta",
     "cuisine": "Italian",
     "protein": "Pork",
     "cook_time": 89,
@@ -706,18 +714,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Slow-cook ground pork with tomatoes, garlic, and red wine for 2 hours.",
+      "Toss the rich sauce with al dente pappardelle or rigatoni.",
+      "Add a splash of heavy cream for a silkier texture.",
+      "Serve with plenty of freshly grated parmesan cheese."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Pork chops,Black pepper,Onion,Salt,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pasta%2029%0A%0A-%20Pork%20chops%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt%0A-%20Butter",
     "icon": "\ud83c\udf5d"
   },
   {
     "id": 30,
-    "name": "Meatloaf 30",
+    "name": "Classic Meatloaf",
     "cuisine": "American",
     "protein": "Beef",
     "cook_time": 42,
@@ -730,18 +739,19 @@
       "Lemon"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Mix ground beef with breadcrumbs, onion, and egg.",
+      "Press into a loaf pan and top with a glaze of ketchup and brown sugar.",
+      "Bake at 350F for about an hour until cooked through.",
+      "Let rest for 10 minutes before slicing to keep it moist."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Ground beef,Black pepper,Butter,Salt,Lemon",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2030%0A%0A-%20Ground%20beef%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Lemon",
-    "icon": "\ud83e\udd69"
+    "icon": "\ud83c\udf5e"
   },
   {
     "id": 31,
-    "name": "Zoodle Pasta 31",
+    "name": "Zoodle Chicken Pasta",
     "cuisine": "Healthy",
     "protein": "Chicken",
     "cook_time": 47,
@@ -754,18 +764,19 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Pan-sear chicken strips until golden and cooked.",
+      "In the same pan, saut\u00e9 garlic and cherry tomatoes until they burst.",
+      "Toss in zucchini noodles for just 2 minutes so they stay crisp.",
+      "Finish with fresh basil and a sprinkle of parmesan."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1645112481357-19453911049c?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Chicken thighs,Lemon,Garlic,Onion,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2031%0A%0A-%20Chicken%20thighs%0A-%20Lemon%0A-%20Garlic%0A-%20Onion%0A-%20Salt",
-    "icon": "\ud83e\udd57"
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 32,
-    "name": "Scallops 32",
+    "name": "Honey Garlic Scallops",
     "cuisine": "Seafood",
     "protein": "Chicken",
     "cook_time": 53,
@@ -778,18 +789,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Sear scallops in a hot pan until golden brown on both sides.",
+      "Whisk together honey, soy sauce, and minced garlic.",
+      "Pour the sauce into the pan for the last minute to glaze the scallops.",
+      "Serve over steamed rice with some steamed broccoli."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Chicken thighs,Black pepper,Butter,Salt,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2032%0A%0A-%20Chicken%20thighs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Onion",
-    "icon": "\ud83d\udc1f"
+    "icon": "\ud83d\udc1a"
   },
   {
     "id": 33,
-    "name": "Fried Chicken 33",
+    "name": "Beef Fried Chicken Style",
     "cuisine": "Southern",
     "protein": "Beef",
     "cook_time": 50,
@@ -802,18 +814,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Thinly slice beef and coat in a seasoned flour batter.",
+      "Deep fry until extremely crispy (like country fried steak).",
+      "Top with a creamy white gravy and secondary herbs.",
+      "Serve with mashed potatoes and buttery corn."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1594041680534-e8c8cdebd679?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Ground beef,Butter,Lemon,Garlic,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2033%0A%0A-%20Ground%20beef%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion",
-    "icon": "\ud83c\udf57"
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 34,
-    "name": "Chicken Parm 34",
+    "name": "Classic Chicken Parm",
     "cuisine": "Italian",
     "protein": "Chicken",
     "cook_time": 17,
@@ -826,18 +839,19 @@
       "Lemon"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Bread chicken cutlets and fry until golden.",
+      "Layer with marinara and thick slices of mozzarella.",
+      "Bake until cheese is bubbly and edges are crisp.",
+      "Serve on a bed of spaghetti with extra sauce."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1632778149975-420e0e32e672?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Whole chicken,Onion,Fresh herbs,Garlic,Lemon",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2034%0A%0A-%20Whole%20chicken%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Garlic%0A-%20Lemon",
     "icon": "\ud83c\udf5d"
   },
   {
     "id": 35,
-    "name": "Paella 35",
+    "name": "Vegetarian Paella",
     "cuisine": "Seafood",
     "protein": "Vegetarian",
     "cook_time": 78,
@@ -850,18 +864,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Saut\u00e9 bell peppers, artichokes, and peas in a wide pan.",
+      "Add saffron-infused broth and short-grain rice (calasparra).",
+      "Cook undisturbed until the 'socarrat' (crispy bottom) forms.",
+      "Garnish with lemon wedges and fresh parsley."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1534080564607-198f9dd5d61a?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Mushrooms,Black pepper,Garlic,Lemon,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Paella%2035%0A%0A-%20Mushrooms%0A-%20Black%20pepper%0A-%20Garlic%0A-%20Lemon%0A-%20Butter",
-    "icon": "\ud83d\udc1f"
+    "icon": "\ud83e\udd58"
   },
   {
     "id": 36,
-    "name": "Meatloaf 36",
+    "name": "Chicken Meatloaf",
     "cuisine": "American",
     "protein": "Chicken",
     "cook_time": 67,
@@ -874,18 +889,19 @@
       "Garlic"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Mix ground chicken with herbs, onion, and breadcrumbs.",
+      "Brush with a savory balsamic glaze instead of ketchup.",
+      "Bake until internal temp reaches 165F.",
+      "Serve with steamed green beans and mashed sweet potatoes."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Chicken breast,Olive oil,Black pepper,Fresh herbs,Garlic",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2036%0A%0A-%20Chicken%20breast%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Garlic",
-    "icon": "\ud83e\udd69"
+    "icon": "\ud83c\udf5e"
   },
   {
     "id": 37,
-    "name": "Gyro 37",
+    "name": "Seafood Gyro",
     "cuisine": "Mediterranean",
     "protein": "Seafood",
     "cook_time": 88,
@@ -898,18 +914,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Grill seasoned shrimp and squid until tender.",
+      "Warm a pita and spread with a thick layer of tzatziki.",
+      "Stuff with the seafood, tomatoes, cucumbers, and red onion.",
+      "Finish with a dash of Greek seasoning and lemon juice."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1599940824399-b87987cb247a?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Shrimp,Olive oil,Lemon,Black pepper,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2037%0A%0A-%20Shrimp%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Butter",
     "icon": "\ud83e\udd59"
   },
   {
     "id": 38,
-    "name": "Scallops 38",
+    "name": "Steak & Scallops",
     "cuisine": "Seafood",
     "protein": "Beef",
     "cook_time": 35,
@@ -922,18 +939,19 @@
       "Black pepper"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Pan-sear a thick steak until medium-rare, then rest.",
+      "In the same pan, sear scallops until golden brown.",
+      "Deglaze the pan with butter and garlic to drizzle over both.",
+      "Serve with a side of smashed potatoes and green beans."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1594041680534-e8c8cdebd679?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Beef chuck roast,Butter,Olive oil,Onion,Black pepper",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2038%0A%0A-%20Beef%20chuck%20roast%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion%0A-%20Black%20pepper",
-    "icon": "\ud83d\udc1f"
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 39,
-    "name": "Tacos 39",
+    "name": "Chicken Soft Tacos",
     "cuisine": "Mexican",
     "protein": "Chicken",
     "cook_time": 32,
@@ -946,18 +964,19 @@
       "Garlic"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Season shredded chicken with lime, cumin, and chili.",
+      "Warm soft corn tortillas over an open flame.",
+      "Fill with chicken, fresh pico de gallo, and avocado.",
+      "Top with cotija cheese and fresh cilantro."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Whole chicken,Black pepper,Onion,Butter,Garlic",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2039%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Onion%0A-%20Butter%0A-%20Garlic",
     "icon": "\ud83c\udf2e"
   },
   {
     "id": 40,
-    "name": "Falafel 40",
+    "name": "Chicken Falafel Bowl",
     "cuisine": "Mediterranean",
     "protein": "Chicken",
     "cook_time": 17,
@@ -970,14 +989,15 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Serve crispy falafel balls alongside grilled chicken strips.",
+      "Arrange over a bed of baby spinach and cucumber salad.",
+      "Add a generous scoop of hummus and some pickled cabbage.",
+      "Drizzle with tahini sauce and sprinkle with sesame seeds."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1547060013-165fb0bbba43?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Whole chicken,Black pepper,Butter,Olive oil,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2040%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Butter%0A-%20Olive%20oil%0A-%20Salt",
-    "icon": "\ud83e\udd59"
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 41,

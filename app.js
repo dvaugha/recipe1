@@ -68,7 +68,9 @@ function renderRecipes() {
         </div>
     `).join('');
 
-    document.getElementById('item-count').innerText = `${filteredRecipes.length} Recipes`;
+    // Update the counter
+    document.getElementById('total-count').innerText = recipes.length;
+    document.getElementById('left-count').innerText = filteredRecipes.length;
 }
 
 function deleteRecipe(id) {
