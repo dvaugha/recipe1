@@ -16,7 +16,8 @@ function renderRecipes() {
     const grid = document.getElementById('recipe-grid');
     grid.innerHTML = filteredRecipes.map(recipe => `
         <div class="recipe-card" onclick="openDetails(${recipe.id})">
-            <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=500&q=80" alt="${recipe.name}" class="recipe-image">
+            <button class="btn-delete" onclick="event.stopPropagation(); deleteRecipe(${recipe.id})">✕</button>
+            <img src="${recipe.image_url || 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=500&q=80'}" alt="${recipe.name}" class="recipe-image">
             <div class="recipe-info">
                 <div class="recipe-tag-row">
                     <span class="tag cuisine-tag">${recipe.cuisine}</span>
@@ -38,6 +39,14 @@ function renderRecipes() {
     document.getElementById('item-count').innerText = `${filteredRecipes.length} Recipes`;
 }
 
+function deleteRecipe(id) {
+    if (confirm('Delete this recipe?')) {
+        recipes = recipes.filter(r => r.id !== id);
+        filteredRecipes = filteredRecipes.filter(r => r.id !== id);
+        renderRecipes();
+    }
+}
+
 function filterCuisine(cuisine) {
     // Update active chip UI
     const chips = document.querySelectorAll('.chip');
@@ -56,6 +65,7 @@ function filterCuisine(cuisine) {
 
 function openDetails(id) {
     const recipe = recipes.find(r => r.id === id);
+    if (!recipe) return;
     const modal = document.getElementById('recipe-modal');
     const content = document.getElementById('modal-content');
 
