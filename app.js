@@ -12,6 +12,28 @@ async function loadRecipes() {
     }
 }
 
+function handleSearch() {
+    const query = document.getElementById('recipe-search').value.toLowerCase();
+
+    // Reset other filters UI
+    const chips = document.querySelectorAll('.chip');
+    chips.forEach(chip => {
+        if (chip.innerText.trim() === 'All') chip.classList.add('active');
+        else chip.classList.remove('active');
+    });
+
+    if (!query) {
+        filteredRecipes = [...recipes];
+    } else {
+        filteredRecipes = recipes.filter(r =>
+            r.name.toLowerCase().includes(query) ||
+            r.cuisine.toLowerCase().includes(query) ||
+            r.ingredients.some(ing => ing.toLowerCase().includes(query))
+        );
+    }
+    renderRecipes();
+}
+
 function showGroceryList(id) {
     const recipe = recipes.find(r => r.id === id);
     if (!recipe) return;
@@ -87,6 +109,9 @@ function deleteRecipe(id) {
 }
 
 function filterCuisine(cuisine) {
+    // Clear search
+    document.getElementById('recipe-search').value = '';
+
     // Update active chip UI
     const chips = document.querySelectorAll('.chip');
     chips.forEach(chip => {
@@ -103,6 +128,9 @@ function filterCuisine(cuisine) {
 }
 
 function filterCollection(collectionName) {
+    // Clear search
+    document.getElementById('recipe-search').value = '';
+
     const chips = document.querySelectorAll('.chip');
     chips.forEach(chip => {
         if (chip.innerText.includes("Nicole")) chip.classList.add('active');
