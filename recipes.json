@@ -1001,7 +1001,7 @@
   },
   {
     "id": 41,
-    "name": "Biscuits & Gravy 41",
+    "name": "Biscuits & Gravy",
     "cuisine": "Southern",
     "protein": "Chicken",
     "cook_time": 39,
@@ -1014,18 +1014,19 @@
       "Fresh herbs"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Bake flaky buttermilk biscuits until golden brown.",
+      "Prepare a creamy white gravy with saut\u00e9ed chicken sausage crumbles.",
+      "Season generously with black pepper.",
+      "Split the warm biscuits and smother with the hot gravy."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Chicken breast,Lemon,Garlic,Olive oil,Fresh herbs",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Biscuits%20%26%20Gravy%2041%0A%0A-%20Chicken%20breast%0A-%20Lemon%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs",
-    "icon": "\ud83c\udf57"
+    "icon": "\ud83e\udd50"
   },
   {
     "id": 42,
-    "name": "Zoodle Pasta 42",
+    "name": "Steak Zoodle Pasta",
     "cuisine": "Healthy",
     "protein": "Beef",
     "cook_time": 72,
@@ -1038,18 +1039,19 @@
       "Lemon"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Sear thinly sliced beef strips until medium-rare.",
+      "Spiralize zucchini and saut\u00e9 briefly with garlic and red pepper flakes.",
+      "Toss the steak and zoodles together with a splash of soy sauce.",
+      "Garnish with sesame seeds and green onions."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1645112481357-19453911049c?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Ribeye steak,Butter,Onion,Garlic,Lemon",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2042%0A%0A-%20Ribeye%20steak%0A-%20Butter%0A-%20Onion%0A-%20Garlic%0A-%20Lemon",
-    "icon": "\ud83e\udd57"
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 43,
-    "name": "Falafel 43",
+    "name": "Beef Falafel Platter",
     "cuisine": "Mediterranean",
     "protein": "Beef",
     "cook_time": 15,
@@ -1062,18 +1064,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Combine crispy falafel with seasoned ground beef.",
+      "Serve over a platter of hummus and tabbouleh salad.",
+      "Add a side of olives and feta cheese.",
+      "Drizzle with tahini and serve with warm pita bread pieces."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1547060013-165fb0bbba43?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Ribeye steak,Lemon,Fresh herbs,Onion,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2043%0A%0A-%20Ribeye%20steak%0A-%20Lemon%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter",
-    "icon": "\ud83e\udd59"
+    "icon": "\ud83e\udd58"
   },
   {
     "id": 44,
-    "name": "Gyro 44",
+    "name": "Veggie Gyro",
     "cuisine": "Mediterranean",
     "protein": "Vegetarian",
     "cook_time": 71,
@@ -1086,18 +1089,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Grill slices of halloumi cheese and seasoned eggplant.",
+      "Warm a pita and spread with a thick layer of tzatziki.",
+      "Stuff with the grilled cheese, veggies, and fresh tomatoes.",
+      "Finish with red onions and a sprinkle of dried oregano."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1599940824399-b87987cb247a?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Tofu,Onion,Garlic,Black pepper,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2044%0A%0A-%20Tofu%0A-%20Onion%0A-%20Garlic%0A-%20Black%20pepper%0A-%20Butter",
     "icon": "\ud83e\udd59"
   },
   {
     "id": 45,
-    "name": "Roasted Veggies 45",
+    "name": "Rainbow Roasted Veggies",
     "cuisine": "Healthy",
     "protein": "Vegetarian",
     "cook_time": 51,
@@ -1110,18 +1114,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Chop bell peppers, zucchini, carrots, and sweet potatoes.",
+      "Toss with olive oil, salt, and rosemary.",
+      "Roast at 400F until caramelized and tender.",
+      "Serve as a main bowl with a dollop of Greek yogurt or tahini."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Lentils,Black pepper,Fresh herbs,Salt,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Roasted%20Veggies%2045%0A%0A-%20Lentils%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Salt%0A-%20Onion",
     "icon": "\ud83e\udd57"
   },
   {
     "id": 46,
-    "name": "Burger 46",
+    "name": "Black Bean Burger",
     "cuisine": "American",
     "protein": "Vegetarian",
     "cook_time": 68,
@@ -1134,18 +1139,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Mash black beans with spices, breadcrumbs, and finely chopped onions.",
+      "Form into patties and pan-sear until crispy on the outside.",
+      "Serve on a toasted bun with avocado, sprouts, and spicy mayo.",
+      "Add a slice of pepper jack cheese for extra flavor."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Tofu,Butter,Lemon,Salt,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burger%2046%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Salt%0A-%20Onion",
-    "icon": "\ud83e\udd69"
+    "icon": "\ud83c\udf54"
   },
   {
     "id": 47,
-    "name": "Teriyaki 47",
+    "name": "Beef Teriyaki",
     "cuisine": "Asian",
     "protein": "Beef",
     "cook_time": 27,
@@ -1158,18 +1164,19 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Saut\u00e9 thinly sliced beef with a homemade teriyaki glaze.",
+      "Add snap peas and carrots for crunch.",
+      "Serve over a bowl of steamed jasmine rice.",
+      "Garnish with sesame seeds and fresh scallions."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Sirloin strips,Olive oil,Black pepper,Butter,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Teriyaki%2047%0A%0A-%20Sirloin%20strips%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion",
     "icon": "\ud83c\udf5c"
   },
   {
     "id": 48,
-    "name": "Tacos 48",
+    "name": "Al Pastor Pork Tacos",
     "cuisine": "Mexican",
     "protein": "Pork",
     "cook_time": 68,
@@ -1182,18 +1189,19 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Marinate pork in achiote, chili, and pineapple juice.",
+      "Grill until charred and thinly slice.",
+      "Serve in soft corn tortillas with fresh pineapple chunks.",
+      "Top with cilantro, onion, and a squeeze of lime."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Pork chops,Lemon,Garlic,Butter,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2048%0A%0A-%20Pork%20chops%0A-%20Lemon%0A-%20Garlic%0A-%20Butter%0A-%20Salt",
     "icon": "\ud83c\udf2e"
   },
   {
     "id": 49,
-    "name": "Stir-Fry 49",
+    "name": "Pork & Ginger Stir-Fry",
     "cuisine": "Asian",
     "protein": "Pork",
     "cook_time": 53,
@@ -1206,18 +1214,19 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Wok-fry pork strips with plenty of fresh ginger and garlic.",
+      "Add broccoli, peppers, and a savory soy-oyster sauce.",
+      "Toss over high heat until the vegetables are tender-crisp.",
+      "Serve immediate over white or brown rice."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Pork belly,Lemon,Onion,Black pepper,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Stir-Fry%2049%0A%0A-%20Pork%20belly%0A-%20Lemon%0A-%20Onion%0A-%20Black%20pepper%0A-%20Salt",
-    "icon": "\ud83c\udf5c"
+    "icon": "\ud83c\udf5b"
   },
   {
     "id": 50,
-    "name": "Burritos 50",
+    "name": "Ultimate Bean Burrito",
     "cuisine": "Mexican",
     "protein": "Vegetarian",
     "cook_time": 39,
@@ -1230,13 +1239,14 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Refry black beans with cumin and lime.",
+      "Fill a large tortilla with beans, Mexican rice, and plenty of cheese.",
+      "Add fresh salsa and a dollop of sour cream.",
+      "Fold and grill the burrito for 1 minute per side to melt the cheese."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Chickpeas,Olive oil,Lemon,Salt,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2050%0A%0A-%20Chickpeas%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt%0A-%20Onion",
-    "icon": "\ud83c\udf2e"
+    "icon": "\ud83c\udf2f"
   }
 ]
