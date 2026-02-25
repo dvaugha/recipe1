@@ -376,7 +376,7 @@
   },
   {
     "id": 16,
-    "name": "Chicken Parm 16",
+    "name": "Beef Parmigiana",
     "cuisine": "Italian",
     "protein": "Beef",
     "cook_time": 84,
@@ -389,18 +389,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Tenderize beef steaks and coat in flour, egg, and seasoned breadcrumbs.",
+      "Fry until golden brown and place in a baking dish.",
+      "Top with marinara sauce and a generous amount of mozzarella cheese.",
+      "Bake at 400F until the cheese is bubbly and slightly browned."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Sirloin strips,Garlic,Salt,Onion,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2016%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Salt%0A-%20Onion%0A-%20Butter",
-    "icon": "\ud83c\udf5d"
+    "icon": "\ud83c\udf56"
   },
   {
     "id": 17,
-    "name": "Risotto 17",
+    "name": "Mushroom Risotto",
     "cuisine": "Italian",
     "protein": "Vegetarian",
     "cook_time": 57,
@@ -413,18 +414,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Saut\u00e9 mushrooms and onions in butter until soft and golden.",
+      "Add arborio rice and toast slightly before adding warm broth one ladle at a time.",
+      "Stir continuously until the rice is creamy and perfectly cooked.",
+      "Finish with parmesan cheese, fresh herbs, and a final knob of butter."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Tofu,Garlic,Onion,Fresh herbs,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Risotto%2017%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Butter",
-    "icon": "\ud83c\udf5d"
+    "icon": "\ud83c\udf5a"
   },
   {
     "id": 18,
-    "name": "Chicken Parm 18",
+    "name": "Seafood Fra Diavolo",
     "cuisine": "Italian",
     "protein": "Seafood",
     "cook_time": 77,
@@ -437,18 +439,19 @@
       "Butter"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Saut\u00e9 a mix of shrimp, scallops, and squid in a spicy garlic tomato sauce.",
+      "Add red pepper flakes and a splash of white wine for that signature kick.",
+      "Toss with al dente linguine pasta until well coated.",
+      "Garnish with fresh parsley and serve immediately while hot."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Salmon fillets,Onion,Olive oil,Salt,Butter",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2018%0A%0A-%20Salmon%20fillets%0A-%20Onion%0A-%20Olive%20oil%0A-%20Salt%0A-%20Butter",
     "icon": "\ud83c\udf5d"
   },
   {
     "id": 19,
-    "name": "Falafel 19",
+    "name": "Pork Souvlaki",
     "cuisine": "Mediterranean",
     "protein": "Pork",
     "cook_time": 35,
@@ -461,18 +464,19 @@
       "Salt"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Marinate pork chunks in olive oil, lemon, oregano, and garlic for 2 hours.",
+      "Thread the meat onto skewers and grill over high heat until charred and cooked.",
+      "Serve with warm pita bread, sliced onions, and a scoop of cool tzatziki.",
+      "Drizzle with extra lemon juice and a sprinkle of paprika."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1603073163308-9654c3fb70b5?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Pork belly,Fresh herbs,Black pepper,Onion,Salt",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2019%0A%0A-%20Pork%20belly%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt",
-    "icon": "\ud83e\udd59"
+    "icon": "\ud83c\udf62"
   },
   {
     "id": 20,
-    "name": "Fried Chicken 20",
+    "name": "Fried Tofu Nuggets",
     "cuisine": "Southern",
     "protein": "Vegetarian",
     "cook_time": 59,
@@ -485,11 +489,12 @@
       "Black pepper"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Press extra-firm tofu and cut into bite-sized nugget shapes.",
+      "Dip in a seasoned flour batter and fry until extremely crispy and golden.",
+      "Toss with a dash of salt and your favorite Southern-style spices.",
+      "Serve with a smoky BBQ or honey mustard dipping sauce."
     ],
-    "image_url": "https://via.placeholder.com/300",
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
     "grocery_list": "Lentils,Butter,Garlic,Lemon,Black pepper",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2020%0A%0A-%20Lentils%0A-%20Butter%0A-%20Garlic%0A-%20Lemon%0A-%20Black%20pepper",
     "icon": "\ud83c\udf57"

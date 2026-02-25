@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Recipe1 | Pocket Kitchen</title>
     <link rel="stylesheet" href="style.css">
     <!-- iOS App Meta Tags -->
@@ -10,6 +12,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="Recipe1">
 </head>
+
 <body>
     <header>
         <h1>Dinner Tonight</h1>
@@ -32,18 +35,32 @@
         </div>
     </main>
 
-    <!-- Detailed View Modal -->
-    <div id="recipe-modal" class="modal">
+    <!-- Grocery List Modal -->
+    <div id="grocery-modal" class="modal">
         <div class="modal-header">
-            <button class="btn-close" onclick="closeModal()">✕</button>
-            <span style="font-weight: 600;">Recipe Details</span>
+            <button class="btn-close" onclick="closeGroceryModal()">✕</button>
+            <span style="font-weight: 600;">Grocery List</span>
             <div style="width: 32px;"></div>
         </div>
-        <div class="modal-content" id="modal-content">
-            <!-- Full recipe details here -->
+        <div class="modal-content">
+            <div id="grocery-status"
+                style="background: #e1f5fe; color: #01579b; padding: 12px; border-radius: 12px; margin-bottom: 20px; font-size: 14px; font-weight: 600; text-align: center; display: none;">
+                ✓ List Copied to Clipboard!
+            </div>
+            <div id="grocery-items-list"
+                style="background: #f9f9f9; padding: 20px; border-radius: 16px; margin-bottom: 24px;">
+                <!-- List items here -->
+            </div>
+            <a href="mobilenotes://" id="notes-app-link" class="btn-grocery" style="background: #f5a623;">
+                📔 Open Notes App to Paste
+            </a>
+            <p style="font-size: 12px; color: var(--text-light); text-align: center; margin-top: 12px;">
+                The list has been copied. Open Notes and paste into your Grocery List folder.
+            </p>
         </div>
     </div>
 
     <script src="app.js"></script>
 </body>
+
 </html>

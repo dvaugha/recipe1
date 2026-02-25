@@ -12,6 +12,38 @@ async function loadRecipes() {
     }
 }
 
+function showGroceryList(id) {
+    const recipe = recipes.find(r => r.id === id);
+    if (!recipe) return;
+
+    const modal = document.getElementById('grocery-modal');
+    const itemsList = document.getElementById('grocery-items-list');
+    const status = document.getElementById('grocery-status');
+
+    // Display items
+    itemsList.innerHTML = `
+        <h4 style="margin: 0 0 10px 0; color: var(--text);">${recipe.name}</h4>
+        <div style="font-family: monospace; white-space: pre-wrap;">${recipe.ingredients.join('\n')}</div>
+    `;
+
+    // Copy to clipboard
+    const textToCopy = `Grocery List for ${recipe.name}:\n\n- ` + recipe.ingredients.join('\n- ');
+    navigator.clipboard.writeText(textToCopy).then(() => {
+        status.style.display = 'block';
+        setTimeout(() => { status.style.opacity = '0'; setTimeout(() => { status.style.display = 'none'; status.style.opacity = '1'; }, 500); }, 3000);
+    });
+
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeGroceryModal() {
+    document.getElementById('grocery-modal').classList.remove('active');
+    if (!document.getElementById('recipe-modal').classList.contains('active')) {
+        document.body.style.overflow = 'auto';
+    }
+}
+
 function renderRecipes() {
     const grid = document.getElementById('recipe-grid');
     grid.innerHTML = filteredRecipes.map(recipe => `
@@ -29,9 +61,9 @@ function renderRecipes() {
                     <span>•</span>
                     <span>🥩 ${recipe.protein}</span>
                 </div>
-                <a href="${recipe.grocery_notes_url}" class="btn-grocery" onclick="event.stopPropagation();">
+                <div class="btn-grocery" onclick="event.stopPropagation(); showGroceryList(${recipe.id})">
                     📝 Open Grocery List
-                </a>
+                </div>
             </div>
         </div>
     `).join('');
@@ -41,11 +73,14 @@ function renderRecipes() {
 
 function deleteRecipe(id) {
     const recipe = recipes.find(r => r.id === id);
+    if (!recipe) return;
     if (confirm(`Are you sure you want to permanently delete "${recipe.name}"?`)) {
         recipes = recipes.filter(r => r.id !== id);
         filteredRecipes = filteredRecipes.filter(r => r.id !== id);
         renderRecipes();
-        closeModal();
+        const rModal = document.getElementById('recipe-modal');
+        if (rModal) rModal.classList.remove('active');
+        document.body.style.overflow = 'auto';
     }
 }
 
@@ -90,11 +125,11 @@ function openDetails(id) {
             ${recipe.instructions.map(step => `<li>${step}</li>`).join('')}
         </ol>
 
-        <a href="${recipe.grocery_notes_url}" class="btn-grocery">
-            📝 Create Grocery List in Notes
-        </a>
+        <div class="btn-grocery" onclick="showGroceryList(${recipe.id})">
+            📝 Create Grocery List
+        </div>
 
-        <button class="btn-delete" style="margin-top: 32px; background: transparent; color: #ff3b30; border: 1px solid #ff3b30;" onclick="deleteRecipe(${recipe.id})">
+        <button class="btn-delete-full" onclick="deleteRecipe(${recipe.id})">
             🗑 Delete Recipe
         </button>
     `;
