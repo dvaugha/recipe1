@@ -1248,5 +1248,268 @@
     "grocery_list": "Chickpeas,Olive oil,Lemon,Salt,Onion",
     "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2050%0A%0A-%20Chickpeas%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt%0A-%20Onion",
     "icon": "\ud83c\udf2f"
+  },
+  {
+    "id": 51,
+    "name": "Meatball Sub Casserole",
+    "cuisine": "American",
+    "protein": "Beef",
+    "cook_time": 45,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Frozen meatballs",
+      "Marinara sauce",
+      "Refrigerated biscuits",
+      "Mozzarella cheese",
+      "Italian seasoning",
+      "Garlic powder"
+    ],
+    "instructions": [
+      "Preheat oven to 375F.",
+      "Cut biscuits into quarters and toss with garlic powder and herbs.",
+      "Lay biscuits in a baking dish, top with meatballs and marinara sauce.",
+      "Bake for 20 minutes, then top with mozzarella and bake until bubbly."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83e\udd58",
+    "grocery_list": "Frozen meatballs,Marinara sauce,Refrigerated biscuits,Mozzarella cheese,Italian seasoning,Garlic powder",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatball%20Sub%20Casserole%0A%0A-%20Frozen%20meatballs%0A-%20Marinara%20sauce%0A-%20Refrigerated%20biscuits%0A-%20Mozzarella%20cheese%0A-%20Italian%20seasoning%0A-%20Garlic%20powder"
+  },
+  {
+    "id": 52,
+    "name": "Turkey Taco Casserole",
+    "cuisine": "Mexican",
+    "protein": "Pork",
+    "cook_time": 35,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Ground turkey (or pork)",
+      "Taco seasoning",
+      "Corn chips",
+      "Black beans",
+      "Shredded cheddar",
+      "Salsa"
+    ],
+    "instructions": [
+      "Brown meat in a skillet and stir in taco seasoning.",
+      "In a baking dish, layer corn chips, meat mixture, beans, and salsa.",
+      "Top with plenty of cheese.",
+      "Bake at 350F for 15-20 minutes until cheese is melted."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83c\udf2e",
+    "grocery_list": "Ground turkey (or pork),Taco seasoning,Corn chips,Black beans,Shredded cheddar,Salsa",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Turkey%20Taco%20Casserole%0A%0A-%20Ground%20turkey%20%28or%20pork%29%0A-%20Taco%20seasoning%0A-%20Corn%20chips%0A-%20Black%20beans%0A-%20Shredded%20cheddar%0A-%20Salsa"
+  },
+  {
+    "id": 53,
+    "name": "Sheet Pan Chicken Fajitas",
+    "cuisine": "Mexican",
+    "protein": "Chicken",
+    "cook_time": 30,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Chicken breasts",
+      "Bell peppers",
+      "Onion",
+      "Fajita seasoning",
+      "Olive oil",
+      "Tortillas"
+    ],
+    "instructions": [
+      "Slice chicken, peppers, and onions into strips.",
+      "Toss everything on a sheet pan with oil and fajita seasoning.",
+      "Roast at 400F for 20 minutes until chicken is cooked through.",
+      "Serve with warm tortillas and your favorite toppings."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1534352956274-4390974ed281?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83c\udf2e",
+    "grocery_list": "Chicken breasts,Bell peppers,Onion,Fajita seasoning,Olive oil,Tortillas",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Chicken%20Fajitas%0A%0A-%20Chicken%20breasts%0A-%20Bell%20peppers%0A-%20Onion%0A-%20Fajita%20seasoning%0A-%20Olive%20oil%0A-%20Tortillas"
+  },
+  {
+    "id": 54,
+    "name": "French Onion Mac and Cheese",
+    "cuisine": "American",
+    "protein": "Vegetarian",
+    "cook_time": 50,
+    "difficulty": "Medium",
+    "ingredients": [
+      "Macaroni",
+      "Caramelized onions",
+      "Gruyere cheese",
+      "Milk",
+      "Butter",
+      "Flour",
+      "Beef broth splash"
+    ],
+    "instructions": [
+      "Caramelize onions slowly in butter until dark and sweet.",
+      "Make a cheese sauce with flour, butter, milk, and Gruyere.",
+      "Combine cooked macaroni, onions, and sauce.",
+      "Top with extra cheese and bake until golden brown."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83e\uddc0",
+    "grocery_list": "Macaroni,Caramelized onions,Gruyere cheese,Milk,Butter,Flour,Beef broth splash",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20French%20Onion%20Mac%20and%20Cheese%0A%0A-%20Macaroni%0A-%20Caramelized%20onions%0A-%20Gruyere%20cheese%0A-%20Milk%0A-%20Butter%0A-%20Flour%0A-%20Beef%20broth%20splash"
+  },
+  {
+    "id": 55,
+    "name": "Lemon Chicken and Rice Casserole",
+    "cuisine": "Healthy",
+    "protein": "Chicken",
+    "cook_time": 60,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Chicken thighs",
+      "White rice",
+      "Chicken broth",
+      "Lemon juice",
+      "Garlic",
+      "Butter",
+      "Oregano"
+    ],
+    "instructions": [
+      "Combine rice, broth, lemon juice, and seasonings in a baking dish.",
+      "Place seasoned chicken thighs on top of the rice.",
+      "Cover with foil and bake at 375F for 45 minutes.",
+      "Remove foil and bake for 15 more minutes to crisp the chicken skin."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83c\udf4b",
+    "grocery_list": "Chicken thighs,White rice,Chicken broth,Lemon juice,Garlic,Butter,Oregano",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lemon%20Chicken%20and%20Rice%20Casserole%0A%0A-%20Chicken%20thighs%0A-%20White%20rice%0A-%20Chicken%20broth%0A-%20Lemon%20juice%0A-%20Garlic%0A-%20Butter%0A-%20Oregano"
+  },
+  {
+    "id": 56,
+    "name": "Sheet Pan Steak Bites",
+    "cuisine": "American",
+    "protein": "Beef",
+    "cook_time": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Sirloin steak cubes",
+      "Asparagus",
+      "Baby potatoes",
+      "Garlic butter",
+      "Thyme",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Toss potatoes with oil and roast for 15 minutes first.",
+      "Add steak bites and asparagus to the pan.",
+      "Drizzle everything with garlic butter and herbs.",
+      "Broil for 5-7 minutes until steak is seared and tender."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1594041680534-e8c8cdebd679?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83e\udd69",
+    "grocery_list": "Sirloin steak cubes,Asparagus,Baby potatoes,Garlic butter,Thyme,Salt,Pepper",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Steak%20Bites%0A%0A-%20Sirloin%20steak%20cubes%0A-%20Asparagus%0A-%20Baby%20potatoes%0A-%20Garlic%20butter%0A-%20Thyme%0A-%20Salt%0A-%20Pepper"
+  },
+  {
+    "id": 57,
+    "name": "Everything Bagel Salmon",
+    "cuisine": "Seafood",
+    "protein": "Seafood",
+    "cook_time": 20,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Salmon fillets",
+      "Everything bagel seasoning",
+      "Honey",
+      "Dijon mustard",
+      "Broccoli",
+      "Sweet potatoes"
+    ],
+    "instructions": [
+      "Mix honey and mustard; brush over salmon fillets.",
+      "Coat generously with everything bagel seasoning.",
+      "Place on a sheet pan with veggies.",
+      "Roast at 400F for 12-15 minutes."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83d\udc1f",
+    "grocery_list": "Salmon fillets,Everything bagel seasoning,Honey,Dijon mustard,Broccoli,Sweet potatoes",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Everything%20Bagel%20Salmon%0A%0A-%20Salmon%20fillets%0A-%20Everything%20bagel%20seasoning%0A-%20Honey%0A-%20Dijon%20mustard%0A-%20Broccoli%0A-%20Sweet%20potatoes"
+  },
+  {
+    "id": 58,
+    "name": "Pierogi and Sausage Sheet Pan",
+    "cuisine": "American",
+    "protein": "Pork",
+    "cook_time": 30,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Frozen pierogis",
+      "Kielbasa sausage",
+      "Bell peppers",
+      "Onion",
+      "Olive oil",
+      "Cajun seasoning"
+    ],
+    "instructions": [
+      "Slice sausage and vegetables.",
+      "Toss pierogis, sausage, and veggies with oil and seasoning on a sheet pan.",
+      "Roast at 400F for 20-25 minutes, flipping halfway.",
+      "Serve with a side of sour cream."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83e\udd58",
+    "grocery_list": "Frozen pierogis,Kielbasa sausage,Bell peppers,Onion,Olive oil,Cajun seasoning",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pierogi%20and%20Sausage%20Sheet%20Pan%0A%0A-%20Frozen%20pierogis%0A-%20Kielbasa%20sausage%0A-%20Bell%20peppers%0A-%20Onion%0A-%20Olive%20oil%0A-%20Cajun%20seasoning"
+  },
+  {
+    "id": 59,
+    "name": "Easy Meaty Sheet Pan Meal",
+    "cuisine": "American",
+    "protein": "Beef",
+    "cook_time": 30,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Ground beef",
+      "Potatoes",
+      "Carrots",
+      "Onion",
+      "Worcestershire sauce",
+      "Garlic"
+    ],
+    "instructions": [
+      "Form seasoned ground beef into small patties or balls.",
+      "Arrange on a pan with thinly sliced potatoes and carrots.",
+      "Drizzle with oil and Worcestershire sauce.",
+      "Bake at 400F for 25 minutes."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83e\udd69",
+    "grocery_list": "Ground beef,Potatoes,Carrots,Onion,Worcestershire sauce,Garlic",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Easy%20Meaty%20Sheet%20Pan%20Meal%0A%0A-%20Ground%20beef%0A-%20Potatoes%0A-%20Carrots%0A-%20Onion%0A-%20Worcestershire%20sauce%0A-%20Garlic"
+  },
+  {
+    "id": 60,
+    "name": "Sheet Pan Quesadillas",
+    "cuisine": "Mexican",
+    "protein": "Vegetarian",
+    "cook_time": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      "Tortillas",
+      "Shredded cheese",
+      "Black beans",
+      "Corn",
+      "Jalapenos",
+      "Butter"
+    ],
+    "instructions": [
+      "Overlap tortillas on a large sheet pan so they hang off the edges.",
+      "Fill the center with cheese, beans, and corn.",
+      "Fold the tortillas over the filling and place another sheet pan on top to weigh it down.",
+      "Bake at 425F for 20 minutes until golden and melty."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=800&q=80",
+    "icon": "\ud83c\udf2e",
+    "grocery_list": "Tortillas,Shredded cheese,Black beans,Corn,Jalapenos,Butter",
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Quesadillas%0A%0A-%20Tortillas%0A-%20Shredded%20cheese%0A-%20Black%20beans%0A-%20Corn%0A-%20Jalapenos%0A-%20Butter"
   }
 ]
