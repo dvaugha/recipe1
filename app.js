@@ -90,7 +90,7 @@ function filterCuisine(cuisine) {
     // Update active chip UI
     const chips = document.querySelectorAll('.chip');
     chips.forEach(chip => {
-        if (chip.innerText === cuisine) chip.classList.add('active');
+        if (chip.innerText.trim() === cuisine) chip.classList.add('active');
         else chip.classList.remove('active');
     });
 
@@ -99,6 +99,17 @@ function filterCuisine(cuisine) {
     } else {
         filteredRecipes = recipes.filter(r => r.cuisine === cuisine);
     }
+    renderRecipes();
+}
+
+function filterCollection(collectionName) {
+    const chips = document.querySelectorAll('.chip');
+    chips.forEach(chip => {
+        if (chip.innerText.includes("Nicole")) chip.classList.add('active');
+        else chip.classList.remove('active');
+    });
+
+    filteredRecipes = recipes.filter(r => r.collection === collectionName);
     renderRecipes();
 }
 

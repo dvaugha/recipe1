@@ -1273,7 +1273,8 @@
     "image_url": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83e\udd58",
     "grocery_list": "Frozen meatballs,Marinara sauce,Refrigerated biscuits,Mozzarella cheese,Italian seasoning,Garlic powder",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatball%20Sub%20Casserole%0A%0A-%20Frozen%20meatballs%0A-%20Marinara%20sauce%0A-%20Refrigerated%20biscuits%0A-%20Mozzarella%20cheese%0A-%20Italian%20seasoning%0A-%20Garlic%20powder"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatball%20Sub%20Casserole%0A%0A-%20Frozen%20meatballs%0A-%20Marinara%20sauce%0A-%20Refrigerated%20biscuits%0A-%20Mozzarella%20cheese%0A-%20Italian%20seasoning%0A-%20Garlic%20powder",
+    "collection": "Nicole"
   },
   {
     "id": 52,
@@ -1299,7 +1300,8 @@
     "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83c\udf2e",
     "grocery_list": "Ground turkey (or pork),Taco seasoning,Corn chips,Black beans,Shredded cheddar,Salsa",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Turkey%20Taco%20Casserole%0A%0A-%20Ground%20turkey%20%28or%20pork%29%0A-%20Taco%20seasoning%0A-%20Corn%20chips%0A-%20Black%20beans%0A-%20Shredded%20cheddar%0A-%20Salsa"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Turkey%20Taco%20Casserole%0A%0A-%20Ground%20turkey%20%28or%20pork%29%0A-%20Taco%20seasoning%0A-%20Corn%20chips%0A-%20Black%20beans%0A-%20Shredded%20cheddar%0A-%20Salsa",
+    "collection": "Nicole"
   },
   {
     "id": 53,
@@ -1325,7 +1327,8 @@
     "image_url": "https://images.unsplash.com/photo-1534352956274-4390974ed281?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83c\udf2e",
     "grocery_list": "Chicken breasts,Bell peppers,Onion,Fajita seasoning,Olive oil,Tortillas",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Chicken%20Fajitas%0A%0A-%20Chicken%20breasts%0A-%20Bell%20peppers%0A-%20Onion%0A-%20Fajita%20seasoning%0A-%20Olive%20oil%0A-%20Tortillas"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Chicken%20Fajitas%0A%0A-%20Chicken%20breasts%0A-%20Bell%20peppers%0A-%20Onion%0A-%20Fajita%20seasoning%0A-%20Olive%20oil%0A-%20Tortillas",
+    "collection": "Nicole"
   },
   {
     "id": 54,
@@ -1352,7 +1355,8 @@
     "image_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83e\uddc0",
     "grocery_list": "Macaroni,Caramelized onions,Gruyere cheese,Milk,Butter,Flour,Beef broth splash",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20French%20Onion%20Mac%20and%20Cheese%0A%0A-%20Macaroni%0A-%20Caramelized%20onions%0A-%20Gruyere%20cheese%0A-%20Milk%0A-%20Butter%0A-%20Flour%0A-%20Beef%20broth%20splash"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20French%20Onion%20Mac%20and%20Cheese%0A%0A-%20Macaroni%0A-%20Caramelized%20onions%0A-%20Gruyere%20cheese%0A-%20Milk%0A-%20Butter%0A-%20Flour%0A-%20Beef%20broth%20splash",
+    "collection": "Nicole"
   },
   {
     "id": 55,
@@ -1379,7 +1383,8 @@
     "image_url": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83c\udf4b",
     "grocery_list": "Chicken thighs,White rice,Chicken broth,Lemon juice,Garlic,Butter,Oregano",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lemon%20Chicken%20and%20Rice%20Casserole%0A%0A-%20Chicken%20thighs%0A-%20White%20rice%0A-%20Chicken%20broth%0A-%20Lemon%20juice%0A-%20Garlic%0A-%20Butter%0A-%20Oregano"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lemon%20Chicken%20and%20Rice%20Casserole%0A%0A-%20Chicken%20thighs%0A-%20White%20rice%0A-%20Chicken%20broth%0A-%20Lemon%20juice%0A-%20Garlic%0A-%20Butter%0A-%20Oregano",
+    "collection": "Nicole"
   },
   {
     "id": 56,
@@ -1406,7 +1411,8 @@
     "image_url": "https://images.unsplash.com/photo-1594041680534-e8c8cdebd679?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83e\udd69",
     "grocery_list": "Sirloin steak cubes,Asparagus,Baby potatoes,Garlic butter,Thyme,Salt,Pepper",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Steak%20Bites%0A%0A-%20Sirloin%20steak%20cubes%0A-%20Asparagus%0A-%20Baby%20potatoes%0A-%20Garlic%20butter%0A-%20Thyme%0A-%20Salt%0A-%20Pepper"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Steak%20Bites%0A%0A-%20Sirloin%20steak%20cubes%0A-%20Asparagus%0A-%20Baby%20potatoes%0A-%20Garlic%20butter%0A-%20Thyme%0A-%20Salt%0A-%20Pepper",
+    "collection": "Nicole"
   },
   {
     "id": 57,
@@ -1432,7 +1438,8 @@
     "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83d\udc1f",
     "grocery_list": "Salmon fillets,Everything bagel seasoning,Honey,Dijon mustard,Broccoli,Sweet potatoes",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Everything%20Bagel%20Salmon%0A%0A-%20Salmon%20fillets%0A-%20Everything%20bagel%20seasoning%0A-%20Honey%0A-%20Dijon%20mustard%0A-%20Broccoli%0A-%20Sweet%20potatoes"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Everything%20Bagel%20Salmon%0A%0A-%20Salmon%20fillets%0A-%20Everything%20bagel%20seasoning%0A-%20Honey%0A-%20Dijon%20mustard%0A-%20Broccoli%0A-%20Sweet%20potatoes",
+    "collection": "Nicole"
   },
   {
     "id": 58,
@@ -1458,7 +1465,8 @@
     "image_url": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83e\udd58",
     "grocery_list": "Frozen pierogis,Kielbasa sausage,Bell peppers,Onion,Olive oil,Cajun seasoning",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pierogi%20and%20Sausage%20Sheet%20Pan%0A%0A-%20Frozen%20pierogis%0A-%20Kielbasa%20sausage%0A-%20Bell%20peppers%0A-%20Onion%0A-%20Olive%20oil%0A-%20Cajun%20seasoning"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pierogi%20and%20Sausage%20Sheet%20Pan%0A%0A-%20Frozen%20pierogis%0A-%20Kielbasa%20sausage%0A-%20Bell%20peppers%0A-%20Onion%0A-%20Olive%20oil%0A-%20Cajun%20seasoning",
+    "collection": "Nicole"
   },
   {
     "id": 59,
@@ -1484,7 +1492,8 @@
     "image_url": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83e\udd69",
     "grocery_list": "Ground beef,Potatoes,Carrots,Onion,Worcestershire sauce,Garlic",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Easy%20Meaty%20Sheet%20Pan%20Meal%0A%0A-%20Ground%20beef%0A-%20Potatoes%0A-%20Carrots%0A-%20Onion%0A-%20Worcestershire%20sauce%0A-%20Garlic"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Easy%20Meaty%20Sheet%20Pan%20Meal%0A%0A-%20Ground%20beef%0A-%20Potatoes%0A-%20Carrots%0A-%20Onion%0A-%20Worcestershire%20sauce%0A-%20Garlic",
+    "collection": "Nicole"
   },
   {
     "id": 60,
@@ -1510,6 +1519,7 @@
     "image_url": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=800&q=80",
     "icon": "\ud83c\udf2e",
     "grocery_list": "Tortillas,Shredded cheese,Black beans,Corn,Jalapenos,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Quesadillas%0A%0A-%20Tortillas%0A-%20Shredded%20cheese%0A-%20Black%20beans%0A-%20Corn%0A-%20Jalapenos%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Sheet%20Pan%20Quesadillas%0A%0A-%20Tortillas%0A-%20Shredded%20cheese%0A-%20Black%20beans%0A-%20Corn%0A-%20Jalapenos%0A-%20Butter",
+    "collection": "Nicole"
   }
 ]
