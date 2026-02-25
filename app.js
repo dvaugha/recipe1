@@ -22,7 +22,7 @@ function renderRecipes() {
                     <span class="tag cuisine-tag">${recipe.cuisine}</span>
                     <span class="tag difficulty-tag">${recipe.difficulty}</span>
                 </div>
-                <h2 class="recipe-title">${recipe.name}</h2>
+                <h2 class="recipe-title">${recipe.icon} ${recipe.name}</h2>
                 <div class="recipe-meta">
                     <span>⏱ ${recipe.cook_time} mins</span>
                     <span>•</span>
@@ -60,7 +60,7 @@ function openDetails(id) {
     const content = document.getElementById('modal-content');
 
     content.innerHTML = `
-        <h2 class="modal-title">${recipe.name}</h2>
+        <h2 class="modal-title">${recipe.icon} ${recipe.name}</h2>
         <div class="recipe-tag-row">
             <span class="tag cuisine-tag">${recipe.cuisine}</span>
             <span class="tag">${recipe.protein}</span>

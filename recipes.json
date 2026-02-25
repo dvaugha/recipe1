@@ -14,13 +14,15 @@
       "Garlic"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Season chicken breast with salt and fresh herbs.",
+      "Melt butter in a large skillet over medium heat.",
+      "Add garlic and sear chicken until internal temp reaches 165F.",
+      "Rest for 5 minutes before serving with a drizzle of pan juices."
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chicken breast,Salt,Fresh herbs,Butter,Garlic",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%201%0A%0A-%20Chicken%20breast%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Garlic"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%201%0A%0A-%20Chicken%20breast%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Garlic",
+    "icon": "\ud83c\udf57"
   },
   {
     "id": 2,
@@ -37,13 +39,15 @@
       "Fresh herbs"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Sear beef chuck roast on all sides until browned.",
+      "Place in slow cooker with garlic and fresh herbs.",
+      "Cook on low for 6-8 hours until fork-tender.",
+      "Shred meat and serve over a bed of grains with a squeeze of fresh lemon."
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Beef chuck roast,Lemon,Salt,Garlic,Fresh herbs",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%202%0A%0A-%20Beef%20chuck%20roast%0A-%20Lemon%0A-%20Salt%0A-%20Garlic%0A-%20Fresh%20herbs"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%202%0A%0A-%20Beef%20chuck%20roast%0A-%20Lemon%0A-%20Salt%0A-%20Garlic%0A-%20Fresh%20herbs",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 3,
@@ -60,13 +64,15 @@
       "Lemon"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Season sirloin strips with black pepper and salt.",
+      "Quickly sear in a hot pan with butter for 2-3 minutes.",
+      "Spread hummus on a serving plate or bowl.",
+      "Top with beef, fresh herbs, and a squeeze of lemon."
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Sirloin strips,Fresh herbs,Black pepper,Butter,Lemon",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Hummus%20Bowl%203%0A%0A-%20Sirloin%20strips%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Lemon"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Hummus%20Bowl%203%0A%0A-%20Sirloin%20strips%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Lemon",
+    "icon": "\ud83e\udd59"
   },
   {
     "id": 4,
@@ -83,13 +89,15 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Press tofu to remove excess moisture and cut into cubes.",
+      "Toss with lemon juice, fresh herbs, and chopped onion.",
+      "Saut\u00e9 until edges are slightly crisp.",
+      "Serve fresh as a salad or bowl base."
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Tofu,Fresh herbs,Butter,Lemon,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Greek%20Salad%204%0A%0A-%20Tofu%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Lemon%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Greek%20Salad%204%0A%0A-%20Tofu%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Lemon%0A-%20Onion",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 5,
@@ -106,13 +114,15 @@
       "Onion"
     ],
     "instructions": [
-      "Prepare ingredients.",
-      "Cook thoroughly.",
-      "Serve and enjoy!"
+      "Spiralize zucchini into noodles (zoodles).",
+      "Saut\u00e9 minced garlic and onion in butter until fragrant.",
+      "Add tofu cubes and cook until browned.",
+      "Toss in zoodles for 2 minutes and finish with fresh lemon juice."
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Tofu,Butter,Lemon,Garlic,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%205%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%205%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion",
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 6,
@@ -135,7 +145,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Lentils,Garlic,Fresh herbs,Black pepper,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pot%20Roast%206%0A%0A-%20Lentils%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pot%20Roast%206%0A%0A-%20Lentils%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter",
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 7,
@@ -158,7 +169,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Beef chuck roast,Lemon,Olive oil,Fresh herbs,Black pepper",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%207%0A%0A-%20Beef%20chuck%20roast%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%207%0A%0A-%20Beef%20chuck%20roast%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 8,
@@ -181,7 +193,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Bacon,Olive oil,Onion,Butter,Fresh herbs",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Enchiladas%208%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Onion%0A-%20Butter%0A-%20Fresh%20herbs"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Enchiladas%208%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Onion%0A-%20Butter%0A-%20Fresh%20herbs",
+    "icon": "\ud83c\udf2e"
   },
   {
     "id": 9,
@@ -204,7 +217,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork belly,Olive oil,Lemon,Black pepper,Garlic",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%209%0A%0A-%20Pork%20belly%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Garlic"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%209%0A%0A-%20Pork%20belly%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Garlic",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 10,
@@ -227,7 +241,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Black beans,Butter,Olive oil,Lemon,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Quesadillas%2010%0A%0A-%20Black%20beans%0A-%20Butter%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Quesadillas%2010%0A%0A-%20Black%20beans%0A-%20Butter%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt",
+    "icon": "\ud83c\udf2e"
   },
   {
     "id": 11,
@@ -250,7 +265,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Cod fillets,Butter,Fresh herbs,Olive oil,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grits%2011%0A%0A-%20Cod%20fillets%0A-%20Butter%0A-%20Fresh%20herbs%0A-%20Olive%20oil%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grits%2011%0A%0A-%20Cod%20fillets%0A-%20Butter%0A-%20Fresh%20herbs%0A-%20Olive%20oil%0A-%20Salt",
+    "icon": "\ud83c\udf57"
   },
   {
     "id": 12,
@@ -273,7 +289,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Bacon,Lemon,Butter,Olive oil,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2012%0A%0A-%20Bacon%0A-%20Lemon%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2012%0A%0A-%20Bacon%0A-%20Lemon%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 13,
@@ -296,7 +313,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Sirloin strips,Garlic,Fresh herbs,Butter,Olive oil",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fajitas%2013%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Olive%20oil"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fajitas%2013%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Butter%0A-%20Olive%20oil",
+    "icon": "\ud83c\udf2e"
   },
   {
     "id": 14,
@@ -319,7 +337,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork shoulder,Lemon,Butter,Onion,Black pepper",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20BBQ%20Ribs%2014%0A%0A-%20Pork%20shoulder%0A-%20Lemon%0A-%20Butter%0A-%20Onion%0A-%20Black%20pepper"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20BBQ%20Ribs%2014%0A%0A-%20Pork%20shoulder%0A-%20Lemon%0A-%20Butter%0A-%20Onion%0A-%20Black%20pepper",
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 15,
@@ -342,7 +361,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chicken thighs,Garlic,Salt,Butter,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2015%0A%0A-%20Chicken%20thighs%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2015%0A%0A-%20Chicken%20thighs%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 16,
@@ -365,7 +385,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Sirloin strips,Garlic,Salt,Onion,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2016%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Salt%0A-%20Onion%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2016%0A%0A-%20Sirloin%20strips%0A-%20Garlic%0A-%20Salt%0A-%20Onion%0A-%20Butter",
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 17,
@@ -388,7 +409,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Tofu,Garlic,Onion,Fresh herbs,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Risotto%2017%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Risotto%2017%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Butter",
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 18,
@@ -411,7 +433,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Salmon fillets,Onion,Olive oil,Salt,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2018%0A%0A-%20Salmon%20fillets%0A-%20Onion%0A-%20Olive%20oil%0A-%20Salt%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2018%0A%0A-%20Salmon%20fillets%0A-%20Onion%0A-%20Olive%20oil%0A-%20Salt%0A-%20Butter",
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 19,
@@ -434,7 +457,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork belly,Fresh herbs,Black pepper,Onion,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2019%0A%0A-%20Pork%20belly%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2019%0A%0A-%20Pork%20belly%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt",
+    "icon": "\ud83e\udd59"
   },
   {
     "id": 20,
@@ -457,7 +481,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Lentils,Butter,Garlic,Lemon,Black pepper",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2020%0A%0A-%20Lentils%0A-%20Butter%0A-%20Garlic%0A-%20Lemon%0A-%20Black%20pepper"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2020%0A%0A-%20Lentils%0A-%20Butter%0A-%20Garlic%0A-%20Lemon%0A-%20Black%20pepper",
+    "icon": "\ud83c\udf57"
   },
   {
     "id": 21,
@@ -480,7 +505,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Bacon,Olive oil,Black pepper,Lemon,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2021%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Lemon%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2021%0A%0A-%20Bacon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Lemon%0A-%20Salt",
+    "icon": "\ud83c\udf57"
   },
   {
     "id": 22,
@@ -503,7 +529,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork shoulder,Fresh herbs,Black pepper,Butter,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2022%0A%0A-%20Pork%20shoulder%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2022%0A%0A-%20Pork%20shoulder%0A-%20Fresh%20herbs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion",
+    "icon": "\ud83d\udc1f"
   },
   {
     "id": 23,
@@ -526,7 +553,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Sea bass,Lemon,Olive oil,Black pepper,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2023%0A%0A-%20Sea%20bass%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Ramen%2023%0A%0A-%20Sea%20bass%0A-%20Lemon%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Onion",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 24,
@@ -549,7 +577,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Tofu,Garlic,Fresh herbs,Onion,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%2024%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pad%20Thai%2024%0A%0A-%20Tofu%0A-%20Garlic%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 25,
@@ -572,7 +601,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Sea bass,Garlic,Olive oil,Fresh herbs,Black pepper",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2025%0A%0A-%20Sea%20bass%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Grain%20Bowl%2025%0A%0A-%20Sea%20bass%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs%0A-%20Black%20pepper",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 26,
@@ -595,7 +625,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Shrimp,Butter,Salt,Fresh herbs,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Steak%2026%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Steak%2026%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Salt%0A-%20Fresh%20herbs%0A-%20Onion",
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 27,
@@ -618,7 +649,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Shrimp,Garlic,Salt,Butter,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2027%0A%0A-%20Shrimp%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2027%0A%0A-%20Shrimp%0A-%20Garlic%0A-%20Salt%0A-%20Butter%0A-%20Onion",
+    "icon": "\ud83c\udf2e"
   },
   {
     "id": 28,
@@ -641,7 +673,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Shrimp,Butter,Onion,Salt,Olive oil",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lobster%20Roll%2028%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Onion%0A-%20Salt%0A-%20Olive%20oil"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Lobster%20Roll%2028%0A%0A-%20Shrimp%0A-%20Butter%0A-%20Onion%0A-%20Salt%0A-%20Olive%20oil",
+    "icon": "\ud83d\udc1f"
   },
   {
     "id": 29,
@@ -664,7 +697,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork chops,Black pepper,Onion,Salt,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pasta%2029%0A%0A-%20Pork%20chops%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Pasta%2029%0A%0A-%20Pork%20chops%0A-%20Black%20pepper%0A-%20Onion%0A-%20Salt%0A-%20Butter",
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 30,
@@ -687,7 +721,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Ground beef,Black pepper,Butter,Salt,Lemon",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2030%0A%0A-%20Ground%20beef%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Lemon"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2030%0A%0A-%20Ground%20beef%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Lemon",
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 31,
@@ -710,7 +745,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chicken thighs,Lemon,Garlic,Onion,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2031%0A%0A-%20Chicken%20thighs%0A-%20Lemon%0A-%20Garlic%0A-%20Onion%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2031%0A%0A-%20Chicken%20thighs%0A-%20Lemon%0A-%20Garlic%0A-%20Onion%0A-%20Salt",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 32,
@@ -733,7 +769,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chicken thighs,Black pepper,Butter,Salt,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2032%0A%0A-%20Chicken%20thighs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2032%0A%0A-%20Chicken%20thighs%0A-%20Black%20pepper%0A-%20Butter%0A-%20Salt%0A-%20Onion",
+    "icon": "\ud83d\udc1f"
   },
   {
     "id": 33,
@@ -756,7 +793,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Ground beef,Butter,Lemon,Garlic,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2033%0A%0A-%20Ground%20beef%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Fried%20Chicken%2033%0A%0A-%20Ground%20beef%0A-%20Butter%0A-%20Lemon%0A-%20Garlic%0A-%20Onion",
+    "icon": "\ud83c\udf57"
   },
   {
     "id": 34,
@@ -779,7 +817,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Whole chicken,Onion,Fresh herbs,Garlic,Lemon",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2034%0A%0A-%20Whole%20chicken%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Garlic%0A-%20Lemon"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Chicken%20Parm%2034%0A%0A-%20Whole%20chicken%0A-%20Onion%0A-%20Fresh%20herbs%0A-%20Garlic%0A-%20Lemon",
+    "icon": "\ud83c\udf5d"
   },
   {
     "id": 35,
@@ -802,7 +841,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Mushrooms,Black pepper,Garlic,Lemon,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Paella%2035%0A%0A-%20Mushrooms%0A-%20Black%20pepper%0A-%20Garlic%0A-%20Lemon%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Paella%2035%0A%0A-%20Mushrooms%0A-%20Black%20pepper%0A-%20Garlic%0A-%20Lemon%0A-%20Butter",
+    "icon": "\ud83d\udc1f"
   },
   {
     "id": 36,
@@ -825,7 +865,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chicken breast,Olive oil,Black pepper,Fresh herbs,Garlic",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2036%0A%0A-%20Chicken%20breast%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Garlic"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Meatloaf%2036%0A%0A-%20Chicken%20breast%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Garlic",
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 37,
@@ -848,7 +889,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Shrimp,Olive oil,Lemon,Black pepper,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2037%0A%0A-%20Shrimp%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2037%0A%0A-%20Shrimp%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Black%20pepper%0A-%20Butter",
+    "icon": "\ud83e\udd59"
   },
   {
     "id": 38,
@@ -871,7 +913,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Beef chuck roast,Butter,Olive oil,Onion,Black pepper",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2038%0A%0A-%20Beef%20chuck%20roast%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion%0A-%20Black%20pepper"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Scallops%2038%0A%0A-%20Beef%20chuck%20roast%0A-%20Butter%0A-%20Olive%20oil%0A-%20Onion%0A-%20Black%20pepper",
+    "icon": "\ud83d\udc1f"
   },
   {
     "id": 39,
@@ -894,7 +937,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Whole chicken,Black pepper,Onion,Butter,Garlic",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2039%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Onion%0A-%20Butter%0A-%20Garlic"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2039%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Onion%0A-%20Butter%0A-%20Garlic",
+    "icon": "\ud83c\udf2e"
   },
   {
     "id": 40,
@@ -917,7 +961,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Whole chicken,Black pepper,Butter,Olive oil,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2040%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Butter%0A-%20Olive%20oil%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2040%0A%0A-%20Whole%20chicken%0A-%20Black%20pepper%0A-%20Butter%0A-%20Olive%20oil%0A-%20Salt",
+    "icon": "\ud83e\udd59"
   },
   {
     "id": 41,
@@ -940,7 +985,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chicken breast,Lemon,Garlic,Olive oil,Fresh herbs",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Biscuits%20%26%20Gravy%2041%0A%0A-%20Chicken%20breast%0A-%20Lemon%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Biscuits%20%26%20Gravy%2041%0A%0A-%20Chicken%20breast%0A-%20Lemon%0A-%20Garlic%0A-%20Olive%20oil%0A-%20Fresh%20herbs",
+    "icon": "\ud83c\udf57"
   },
   {
     "id": 42,
@@ -963,7 +1009,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Ribeye steak,Butter,Onion,Garlic,Lemon",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2042%0A%0A-%20Ribeye%20steak%0A-%20Butter%0A-%20Onion%0A-%20Garlic%0A-%20Lemon"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Zoodle%20Pasta%2042%0A%0A-%20Ribeye%20steak%0A-%20Butter%0A-%20Onion%0A-%20Garlic%0A-%20Lemon",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 43,
@@ -986,7 +1033,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Ribeye steak,Lemon,Fresh herbs,Onion,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2043%0A%0A-%20Ribeye%20steak%0A-%20Lemon%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Falafel%2043%0A%0A-%20Ribeye%20steak%0A-%20Lemon%0A-%20Fresh%20herbs%0A-%20Onion%0A-%20Butter",
+    "icon": "\ud83e\udd59"
   },
   {
     "id": 44,
@@ -1009,7 +1057,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Tofu,Onion,Garlic,Black pepper,Butter",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2044%0A%0A-%20Tofu%0A-%20Onion%0A-%20Garlic%0A-%20Black%20pepper%0A-%20Butter"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Gyro%2044%0A%0A-%20Tofu%0A-%20Onion%0A-%20Garlic%0A-%20Black%20pepper%0A-%20Butter",
+    "icon": "\ud83e\udd59"
   },
   {
     "id": 45,
@@ -1032,7 +1081,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Lentils,Black pepper,Fresh herbs,Salt,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Roasted%20Veggies%2045%0A%0A-%20Lentils%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Salt%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Roasted%20Veggies%2045%0A%0A-%20Lentils%0A-%20Black%20pepper%0A-%20Fresh%20herbs%0A-%20Salt%0A-%20Onion",
+    "icon": "\ud83e\udd57"
   },
   {
     "id": 46,
@@ -1055,7 +1105,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Tofu,Butter,Lemon,Salt,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burger%2046%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Salt%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burger%2046%0A%0A-%20Tofu%0A-%20Butter%0A-%20Lemon%0A-%20Salt%0A-%20Onion",
+    "icon": "\ud83e\udd69"
   },
   {
     "id": 47,
@@ -1078,7 +1129,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Sirloin strips,Olive oil,Black pepper,Butter,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Teriyaki%2047%0A%0A-%20Sirloin%20strips%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Teriyaki%2047%0A%0A-%20Sirloin%20strips%0A-%20Olive%20oil%0A-%20Black%20pepper%0A-%20Butter%0A-%20Onion",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 48,
@@ -1101,7 +1153,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork chops,Lemon,Garlic,Butter,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2048%0A%0A-%20Pork%20chops%0A-%20Lemon%0A-%20Garlic%0A-%20Butter%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Tacos%2048%0A%0A-%20Pork%20chops%0A-%20Lemon%0A-%20Garlic%0A-%20Butter%0A-%20Salt",
+    "icon": "\ud83c\udf2e"
   },
   {
     "id": 49,
@@ -1124,7 +1177,8 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Pork belly,Lemon,Onion,Black pepper,Salt",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Stir-Fry%2049%0A%0A-%20Pork%20belly%0A-%20Lemon%0A-%20Onion%0A-%20Black%20pepper%0A-%20Salt"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Stir-Fry%2049%0A%0A-%20Pork%20belly%0A-%20Lemon%0A-%20Onion%0A-%20Black%20pepper%0A-%20Salt",
+    "icon": "\ud83c\udf5c"
   },
   {
     "id": 50,
@@ -1147,6 +1201,7 @@
     ],
     "image_url": "https://via.placeholder.com/300",
     "grocery_list": "Chickpeas,Olive oil,Lemon,Salt,Onion",
-    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2050%0A%0A-%20Chickpeas%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt%0A-%20Onion"
+    "grocery_notes_url": "mobilenotes://create?text=Grocery%20List%20for%20Burritos%2050%0A%0A-%20Chickpeas%0A-%20Olive%20oil%0A-%20Lemon%0A-%20Salt%0A-%20Onion",
+    "icon": "\ud83c\udf2e"
   }
 ]
